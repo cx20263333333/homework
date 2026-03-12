@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - assets/
+
+website:
+  title: "陈旭 | Soil Microbiology"
+  description: "华中农业大学 土壤学硕士｜研究方向：土壤微生物"
+  navbar:
+    left:
+      - href: index.qmd
+        text: 首页
+      - href: about.qmd
+        text: 简历
+      - href: research.qmd
+        text: 研究方向
+      - href: projects.qmd
+        text: 项目与荣誉
+    right:
+      - icon: envelope
+        aria-label: Email
+        href: mailto:2213504815@qq.com
+  page-footer:
+    left: "© 2026 陈旭"
+    right:
+      - text: "Email"
+        href: mailto:2213504815@qq.com
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-copy: false
+
+lang: zh
+
+execute:
+  freeze: auto

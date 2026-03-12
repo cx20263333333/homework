@@ -1,0 +1,114 @@
+---
+title: "首页"
+page-layout: full
+toc: false
+---
+
+::: {.hero}
+::: {.hero-inner}
+::: {.hero-text}
+# 陈旭 {.hero-title}
+
+<div class="hero-subtitle">土壤学硕士（华中农业大学）｜研究方向：土壤微生物</div>
+
+::: {.hero-stickers}
+<span class="sticker">🌱 土壤微生物</span>
+<span class="sticker">🧪 实验研究</span>
+<span class="sticker">✨ 项目推进</span>
+<span class="sticker">🐣 认真可爱</span>
+:::
+
+<div class="hero-lead">我目前在华中农业大学攻读土壤学硕士，持续关注 **土壤微生物** 与 **土壤健康**。具备扎实的农业资源与环境学科训练、实验测定与数据分析基础，也有项目统筹、竞赛协作与成果表达经验。</div>
+<div class="hero-note">理意蕴于澄明，致幽微于深固。</div>
+
+::: {.hero-cta}
+[查看简历](about.qmd){.btn .btn-primary .btn-lg}
+[项目与荣誉](projects.qmd){.btn .btn-outline-primary .btn-lg}
+[邮件联系](mailto:2213504815@qq.com){.btn .btn-ghost .btn-lg}
+:::
+:::
+
+::: {.hero-avatar}
+::: {.hero-metrics}
+::: {.metric}
+<div class="metric-k">4</div>
+<div class="metric-v">国家级奖项</div>
+:::
+::: {.metric}
+<div class="metric-k">4</div>
+<div class="metric-v">省级奖项</div>
+:::
+:::
+:::
+:::
+:::
+:::
+
+---
+
+::: {.home-panel}
+## 我能做什么 <span class="section-emoji">🌼</span> {.section-title}
+
+::: {.cards}
+::: {.card-lite}
+### 土壤与微生物实验
+
+- 土壤取样、称量与前处理  
+- 总磷 / 无机磷测定与数据记录分析  
+- 总铁 / 二价铁测定与数据分析
+:::
+
+::: {.card-lite}
+### 科研训练与项目推进
+
+- 项目申报书/立项书撰写与材料组织  
+- 团队分工与进度统筹（队长经历）  
+- 实验数据整理、可视化与结论提炼
+:::
+
+::: {.card-lite}
+### 竞赛与表达
+
+- 数学建模、创新创业与实践竞赛经验  
+- 结构化汇报与写作（中英资料整理）  
+- 团队协作与沟通推进
+:::
+:::
+:::
+
+---
+
+::: {.home-panel}
+## 研究兴趣 <span class="section-emoji">🌿</span> {.section-title}
+
+::: {.highlight}
+- **土壤微生物**：群落结构与生态功能、土壤健康评价思路  
+- **养分循环与有效性**：磷、硅、铁等元素形态与转化过程  
+- **土壤改良与修复**：酸化、培肥与耕地质量提升路径
+:::
+:::
+
+---
+
+::: {.home-panel}
+## 教育与经历概览 <span class="section-emoji">📘</span> {.section-title}
+
+::: {.timeline}
+- **2025 – 至今**｜华中农业大学｜硕士｜土壤学（研究方向：土壤微生物）
+- **2021.09 – 2025.06**｜江西农业大学｜农业资源与环境（惟义实验班）｜综合排名 **8/69**（有望获得推免资格）
+:::
+:::
+
+---
+
+::: {.home-panel}
+## 近期亮点 <span class="section-emoji">⭐</span> {.section-title}
+
+- 作为队长组织完成项目 **“绿绣-过氧化氢介导下有机磷水解特性与机制”**，负责统筹分工、指标测定、数据分析与项目书撰写，最终获批**省级立项**。  
+- 参与项目 **“酸化富磷对农田土壤硅有效性的影响”**，完成实验数据记录与分析，参与申报书撰写。  
+- 竞赛获奖：全国农资环专业实践技能竞赛优秀奖、江西省大学生数学建模竞赛二等奖、低碳循环创新大赛国家二等奖、挑战杯红色专项省级三等奖、“创在江西”大赛银奖等。
+
+::: {.cta-banner}
+想进一步了解我的项目细节与获奖情况？可以从 **[项目与荣誉](projects.qmd)** 开始，或直接 **[邮件联系](mailto:2213504815@qq.com)**。
+:::
+:::
